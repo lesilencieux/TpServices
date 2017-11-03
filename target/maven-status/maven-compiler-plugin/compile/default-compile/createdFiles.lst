@@ -1,0 +1,7 @@
+com/bootcamp/jpa/entities/IndicateurPerformance_.class
+com/bootcamp/jpa/repositories/BaseRepository.class
+com/bootcamp/jpa/enums/TypeIndicateur.class
+com/bootcamp/rest/controllers/IndicateurPerformanceRestController.class
+com/bootcamp/jpa/repositories/IndicateurPerformanceRepository.class
+Tester.class
+com/bootcamp/jpa/entities/IndicateurPerformance.class

@@ -1,0 +1,6 @@
+/home/Tps/TpServices/src/main/java/Tester.java
+/home/Tps/TpServices/src/main/java/com/bootcamp/jpa/repositories/BaseRepository.java
+/home/Tps/TpServices/src/main/java/com/bootcamp/jpa/enums/TypeIndicateur.java
+/home/Tps/TpServices/src/main/java/com/bootcamp/jpa/entities/IndicateurPerformance.java
+/home/Tps/TpServices/src/main/java/com/bootcamp/rest/controllers/IndicateurPerformanceRestController.java
+/home/Tps/TpServices/src/main/java/com/bootcamp/jpa/repositories/IndicateurPerformanceRepository.java
